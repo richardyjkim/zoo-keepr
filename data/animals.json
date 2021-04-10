@@ -108,6 +108,20 @@
         "loving"
       ],
       "id": "10"
+    },
+    {
+      "name": "Larry",
+      "speices": "lemur",
+      "diet": "omnivore",
+      "agepersonalityTraits": "hungry, angry",
+      "id": "11"
+    },
+    {
+      "id": "12",
+      "name": "Larry",
+      "speices": "lemur",
+      "diet": "omnivore",
+      "personalityTraits": "hungry"
     }
   ]
 }
